@@ -1,1 +1,1 @@
-# optimizing-porfolio-allocation
+# Optimizing porfolio allocation
